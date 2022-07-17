@@ -1,0 +1,32 @@
+# Exercícios
+## DIO - Collections
+
+### List 1
+1. Crie uma lista com as 7 notas: 7.0, 8.5, 9.3, 5.0, 7.0, 0.0 e 7.0
+2. Exiba a posição da nota 5.0
+3. Adicione na lista a nota 8.0 na posição 4
+4. Substitua a nota 5.0 pela nota 6.0
+5. Confira se a nota 5.0 está na lista
+6. Exiba todas as notas na ordem em que foram informadas
+7. Exiba a 3° nota adcionada
+8. Exiba a menor nota
+9. Exiba a maior nota
+10. Exiba a soma dos valores
+11. Exiba a média das notas
+12. Remova a nota 0.0
+13. Remova a nota da posição 0
+14. Remova as notas menoras que 7 e exiba a lista
+15. Apague toda a lista
+16. Confira se a lista está vazia
+
+### List 2
+Informações sobre os gatos:
+(nome - idade - cor)
+Gato 1 = nome: Jon, idade: 18, cor: preto
+Gato 2 = nome: Simba, idade: 6, cor: tigrado
+Gato 3 = nome: Jon, idade: 12, cor: amarelo
+
+1. Criar lista com as informações dos gatos
+2. Organizar por ordem de inserção
+3. Organizar por ordem aleatória
+4. Organizar por ordem natural
