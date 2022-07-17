@@ -1,7 +1,7 @@
-# Exercícios
-## DIO - Collections
+Exercícios
+DIO - Collections
 
-### List 1
+List 1
 1. Crie uma lista com as 7 notas: 7.0, 8.5, 9.3, 5.0, 7.0, 0.0 e 7.0
 2. Exiba a posição da nota 5.0
 3. Adicione na lista a nota 8.0 na posição 4
@@ -19,7 +19,7 @@
 15. Apague toda a lista
 16. Confira se a lista está vazia
 
-### List 2
+List 2
 Informações sobre os gatos:
 (nome - idade - cor)
 Gato 1 = nome: Jon, idade: 18, cor: preto
